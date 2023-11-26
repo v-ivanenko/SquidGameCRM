@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SG_FirstIteration
+namespace SG_EMS
 {
     public class Organizer
     {

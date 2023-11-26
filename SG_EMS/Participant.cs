@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SG_Third_Iteration
+namespace SG_EMS
 {
     public class Participant
     {

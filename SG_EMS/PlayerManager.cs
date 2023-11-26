@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using SG_FirstIteration;
 
 
-namespace SG_Third_Iteration
+namespace SG_EMS
 {
     public interface IParticipantContainer
     {
